@@ -12,7 +12,7 @@ public class Device {
     Device(String code, String producer, String type) {
         this.code = code;
         this.producer = producer;
-        this.price = price;
+        this.type = type;
 
     }
 
